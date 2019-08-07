@@ -2,4 +2,5 @@
 echo "this script is from github"
 NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo "$NUMBER"
-echo "completed"
+echo "This is completed"
+echo " This was run automatically"
